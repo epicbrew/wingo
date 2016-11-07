@@ -6,12 +6,12 @@ import (
 
 	"github.com/BurntSushi/xgbutil/xgraphics"
 
-	"github.com/BurntSushi/wingo/frame"
-	"github.com/BurntSushi/wingo/logger"
-	"github.com/BurntSushi/wingo/misc"
-	"github.com/BurntSushi/wingo/prompt"
-	"github.com/BurntSushi/wingo/render"
-	"github.com/BurntSushi/wingo/wini"
+	"github.com/plato/wingo/frame"
+	"github.com/plato/wingo/logger"
+	"github.com/plato/wingo/misc"
+	"github.com/plato/wingo/prompt"
+	"github.com/plato/wingo/render"
+	"github.com/plato/wingo/wini"
 )
 
 type ThemeConfig struct {

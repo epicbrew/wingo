@@ -21,8 +21,8 @@ import (
 	"github.com/BurntSushi/xgbutil/mousebind"
 	"github.com/BurntSushi/xgbutil/xevent"
 
-	"github.com/BurntSushi/wingo/cursors"
-	"github.com/BurntSushi/wingo/logger"
+	"github.com/plato/wingo/cursors"
+	"github.com/plato/wingo/logger"
 )
 
 // MouseClientClicked is a terrible hack to inject state into commands.

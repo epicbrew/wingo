@@ -6,8 +6,8 @@ import (
 	"path"
 	"strings"
 
-	"github.com/BurntSushi/wingo/logger"
-	"github.com/BurntSushi/wingo/misc"
+	"github.com/plato/wingo/logger"
+	"github.com/plato/wingo/misc"
 )
 
 func writeConfigFiles() {
