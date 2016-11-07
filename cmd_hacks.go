@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/plato/wingo/commands"
-	"github.com/plato/wingo/wm"
+	"github.com/epicbrew/wingo/commands"
+	"github.com/epicbrew/wingo/wm"
 )
 
 func newHacks() wm.CommandHacks {

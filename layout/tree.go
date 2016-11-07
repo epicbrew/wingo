@@ -6,7 +6,7 @@ import (
 
 	"github.com/BurntSushi/xgbutil/xrect"
 
-	"github.com/plato/wingo/misc"
+	"github.com/epicbrew/wingo/misc"
 )
 
 const (

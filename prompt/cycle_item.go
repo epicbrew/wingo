@@ -6,8 +6,8 @@ import (
 	"github.com/BurntSushi/xgbutil/xgraphics"
 	"github.com/BurntSushi/xgbutil/xwindow"
 
-	"github.com/plato/wingo/logger"
-	"github.com/plato/wingo/text"
+	"github.com/epicbrew/wingo/logger"
+	"github.com/epicbrew/wingo/text"
 )
 
 // CycleChoice is any value capable of being shown in a prompt cycle.

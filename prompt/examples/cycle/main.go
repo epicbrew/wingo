@@ -22,7 +22,7 @@ import (
 	"github.com/BurntSushi/xgbutil/xinerama"
 	"github.com/BurntSushi/xgbutil/xwindow"
 
-	"github.com/plato/wingo/prompt"
+	"github.com/epicbrew/wingo/prompt"
 )
 
 var (

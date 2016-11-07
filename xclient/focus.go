@@ -3,12 +3,12 @@ package xclient
 import (
 	"github.com/BurntSushi/xgbutil/ewmh"
 
-	"github.com/plato/wingo/event"
-	"github.com/plato/wingo/focus"
-	"github.com/plato/wingo/frame"
-	"github.com/plato/wingo/hook"
-	"github.com/plato/wingo/wm"
-	"github.com/plato/wingo/workspace"
+	"github.com/epicbrew/wingo/event"
+	"github.com/epicbrew/wingo/focus"
+	"github.com/epicbrew/wingo/frame"
+	"github.com/epicbrew/wingo/hook"
+	"github.com/epicbrew/wingo/wm"
+	"github.com/epicbrew/wingo/workspace"
 )
 
 func (c *Client) Focus() {

@@ -10,8 +10,8 @@ import (
 
 	"github.com/BurntSushi/xgbutil"
 
-	"github.com/plato/wingo/commands"
-	"github.com/plato/wingo/logger"
+	"github.com/epicbrew/wingo/commands"
+	"github.com/epicbrew/wingo/logger"
 )
 
 // ipc starts the command server via a unix domain socket. It accepts

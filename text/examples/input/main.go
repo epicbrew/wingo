@@ -21,9 +21,9 @@ import (
 	"github.com/BurntSushi/xgbutil/xgraphics"
 	"github.com/BurntSushi/xgbutil/xwindow"
 
-	"github.com/plato/wingo/misc"
-	"github.com/plato/wingo/render"
-	"github.com/plato/wingo/text"
+	"github.com/epicbrew/wingo/misc"
+	"github.com/epicbrew/wingo/render"
+	"github.com/epicbrew/wingo/text"
 )
 
 var (

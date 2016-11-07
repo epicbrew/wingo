@@ -10,9 +10,9 @@ import (
 
 	"github.com/BurntSushi/xgbutil/xgraphics"
 
-	"github.com/plato/wingo/logger"
-	"github.com/plato/wingo/render"
-	"github.com/plato/wingo/wini"
+	"github.com/epicbrew/wingo/logger"
+	"github.com/epicbrew/wingo/render"
+	"github.com/epicbrew/wingo/wini"
 )
 
 func setString(k wini.Key, place *string) {

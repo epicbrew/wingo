@@ -5,7 +5,7 @@ import (
 	"github.com/BurntSushi/xgbutil/xrect"
 	"github.com/BurntSushi/xgbutil/xwindow"
 
-	"github.com/plato/wingo/layout"
+	"github.com/epicbrew/wingo/layout"
 )
 
 type Workspacer interface {

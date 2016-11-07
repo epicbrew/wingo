@@ -7,9 +7,9 @@ import (
 	"github.com/BurntSushi/xgbutil/icccm"
 	"github.com/BurntSushi/xgbutil/xrect"
 
-	"github.com/plato/wingo/frame"
-	"github.com/plato/wingo/logger"
-	"github.com/plato/wingo/wm"
+	"github.com/epicbrew/wingo/frame"
+	"github.com/epicbrew/wingo/logger"
+	"github.com/epicbrew/wingo/wm"
 )
 
 // refreshExtents sets the _NET_FRAME_EXTENTS property whenever the frame

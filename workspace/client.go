@@ -5,7 +5,7 @@ import (
 
 	"github.com/BurntSushi/xgbutil/xrect"
 
-	"github.com/plato/wingo/layout"
+	"github.com/epicbrew/wingo/layout"
 )
 
 type Client interface {

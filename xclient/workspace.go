@@ -5,8 +5,8 @@ import (
 
 	"github.com/BurntSushi/xgbutil/ewmh"
 
-	"github.com/plato/wingo/wm"
-	"github.com/plato/wingo/workspace"
+	"github.com/epicbrew/wingo/wm"
+	"github.com/epicbrew/wingo/workspace"
 )
 
 // ShouldForceFloating returns true whenever a client should be floating.

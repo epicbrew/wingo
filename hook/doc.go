@@ -13,6 +13,6 @@ variable.
 
 Please see config/hooks.wini in the Wingo project directory for an explanation
 of how user defined hooks can be specified:
-https://github.com/plato/wingo/blob/master/config/hooks.wini
+https://github.com/epicbrew/wingo/blob/master/config/hooks.wini
 */
 package hook

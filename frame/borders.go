@@ -5,7 +5,7 @@ import (
 
 	"github.com/BurntSushi/xgbutil"
 
-	"github.com/plato/wingo/render"
+	"github.com/epicbrew/wingo/render"
 )
 
 type Borders struct {

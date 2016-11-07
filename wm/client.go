@@ -3,10 +3,10 @@ package wm
 import (
 	"github.com/BurntSushi/xgb/xproto"
 
-	"github.com/plato/wingo/frame"
-	"github.com/plato/wingo/heads"
-	"github.com/plato/wingo/prompt"
-	"github.com/plato/wingo/workspace"
+	"github.com/epicbrew/wingo/frame"
+	"github.com/epicbrew/wingo/heads"
+	"github.com/epicbrew/wingo/prompt"
+	"github.com/epicbrew/wingo/workspace"
 )
 
 type Client interface {

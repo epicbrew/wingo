@@ -18,12 +18,12 @@ import (
 	"github.com/BurntSushi/xgbutil/xprop"
 	"github.com/BurntSushi/xgbutil/xrect"
 
-	"github.com/plato/wingo/focus"
-	"github.com/plato/wingo/logger"
-	"github.com/plato/wingo/misc"
-	"github.com/plato/wingo/wm"
-	"github.com/plato/wingo/workspace"
-	"github.com/plato/wingo/xclient"
+	"github.com/epicbrew/wingo/focus"
+	"github.com/epicbrew/wingo/logger"
+	"github.com/epicbrew/wingo/misc"
+	"github.com/epicbrew/wingo/wm"
+	"github.com/epicbrew/wingo/workspace"
+	"github.com/epicbrew/wingo/xclient"
 )
 
 // Env declares all available commands. Any command not in

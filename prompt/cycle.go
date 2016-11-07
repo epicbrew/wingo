@@ -15,9 +15,9 @@ import (
 	"github.com/BurntSushi/xgbutil/xrect"
 	"github.com/BurntSushi/xgbutil/xwindow"
 
-	"github.com/plato/wingo/logger"
-	"github.com/plato/wingo/misc"
-	"github.com/plato/wingo/render"
+	"github.com/epicbrew/wingo/logger"
+	"github.com/epicbrew/wingo/misc"
+	"github.com/epicbrew/wingo/render"
 )
 
 // Cycle represents a single cycle prompt. A new cycle prompt can be created by:

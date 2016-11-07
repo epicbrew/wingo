@@ -6,8 +6,8 @@ import (
 
 	"github.com/BurntSushi/gribble"
 
-	"github.com/plato/wingo/logger"
-	"github.com/plato/wingo/wini"
+	"github.com/epicbrew/wingo/logger"
+	"github.com/epicbrew/wingo/wini"
 )
 
 // All available hook groups. Each hook group corresponds to some action in

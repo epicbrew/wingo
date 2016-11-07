@@ -13,11 +13,11 @@ import (
 	"github.com/BurntSushi/xgbutil/xevent"
 	"github.com/BurntSushi/xgbutil/xwindow"
 
-	"github.com/plato/wingo/event"
-	"github.com/plato/wingo/focus"
-	"github.com/plato/wingo/heads"
-	"github.com/plato/wingo/logger"
-	"github.com/plato/wingo/workspace"
+	"github.com/epicbrew/wingo/event"
+	"github.com/epicbrew/wingo/focus"
+	"github.com/epicbrew/wingo/heads"
+	"github.com/epicbrew/wingo/logger"
+	"github.com/epicbrew/wingo/workspace"
 )
 
 var (

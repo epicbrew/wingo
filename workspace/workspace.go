@@ -7,10 +7,10 @@ import (
 	"github.com/BurntSushi/xgbutil"
 	"github.com/BurntSushi/xgbutil/xrect"
 
-	"github.com/plato/wingo/event"
-	"github.com/plato/wingo/layout"
-	"github.com/plato/wingo/logger"
-	"github.com/plato/wingo/prompt"
+	"github.com/epicbrew/wingo/event"
+	"github.com/epicbrew/wingo/layout"
+	"github.com/epicbrew/wingo/logger"
+	"github.com/epicbrew/wingo/prompt"
 )
 
 type Workspace struct {

@@ -3,11 +3,11 @@ package xclient
 import (
 	"time"
 
-	"github.com/plato/wingo/frame"
-	"github.com/plato/wingo/layout"
-	"github.com/plato/wingo/stack"
-	"github.com/plato/wingo/wm"
-	"github.com/plato/wingo/workspace"
+	"github.com/epicbrew/wingo/frame"
+	"github.com/epicbrew/wingo/layout"
+	"github.com/epicbrew/wingo/stack"
+	"github.com/epicbrew/wingo/wm"
+	"github.com/epicbrew/wingo/workspace"
 )
 
 func (c *Client) FloatingToggle() {

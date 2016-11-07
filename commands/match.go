@@ -5,8 +5,8 @@ import (
 
 	"github.com/BurntSushi/gribble"
 
-	"github.com/plato/wingo/logger"
-	"github.com/plato/wingo/xclient"
+	"github.com/epicbrew/wingo/logger"
+	"github.com/epicbrew/wingo/xclient"
 )
 
 type MatchClientMapped struct {

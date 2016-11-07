@@ -6,8 +6,8 @@ import (
 	"path"
 	"strings"
 
-	"github.com/plato/wingo/logger"
-	"github.com/plato/wingo/misc"
+	"github.com/epicbrew/wingo/logger"
+	"github.com/epicbrew/wingo/misc"
 )
 
 func writeConfigFiles() {
